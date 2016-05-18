@@ -1,0 +1,33 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.pylonproducts.wifiwizard": {
+            "PACKAGE_NAME": "com.ionicframework.wifiapp894506"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.wifiapp894506"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.wifiapp894506"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.wifiapp894506"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.wifiapp894506"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.wifiapp894506"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ionicframework.wifiapp894506"
+        }
+    },
+    "dependent_plugins": {}
+}
