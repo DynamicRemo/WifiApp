@@ -1,5 +1,5 @@
 # WifiApp
-IONIC WiFi App <a href="http://dynamicremo.blogspot.de/2016/01/ionic-wifi-app-using-phonegapcordova.html" target="_blank">[Tutorial]</a> - Listing of available WiFi and Connect WiFi within App
+<a href="http://dynamicremo.blogspot.de/2016/01/ionic-wifi-app-using-phonegapcordova.html" target="_blank">IONIC WiFi App [Tutorial]</a> - Listing of available WiFi and Connect WiFi within App
 <br>
 <br>
 <div style="text-align: center;">
